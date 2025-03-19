@@ -93,9 +93,8 @@ int main() {
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/c68a7a0e-bdfb-4871-9e67-ef11068d6bfb)
 
-```
 Input : Surjith
 Encrypted Message : Xzwonym Decrypted Message : Surjith
-```
+
 ## RESULT:
 The program is executed successfully
