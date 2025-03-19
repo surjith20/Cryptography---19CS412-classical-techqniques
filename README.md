@@ -1,4 +1,3 @@
-
 # PlayFair Cipher
 Playfair Cipher using with different key values
 
@@ -147,9 +146,7 @@ int main() {
     printf("\nDecrypted text: %s", str);
     return 0;
 }
-
 ```
-
 ## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/34c215c6-9ff8-4782-8164-293e6481796a)
